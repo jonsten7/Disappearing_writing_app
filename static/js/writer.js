@@ -54,6 +54,7 @@ function updateWordCount() {
     wordCountDisplay.textContent = words.length;
 }
 
+
 function updateSpeed() {
     const now = Date.now();
 
